@@ -1,10 +1,10 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<img src="https://ce7d2b80-1230-4185-90d3-4b5faed9cd6b.ws-us02.gitpod.io/mini-browser/workspace/avicon-projects/assets/images/logo.jpg">
 
-Welcome USER_NAME,
+Welcome to Avicon Projects,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
-## Gitpod Reminders
+## Description of Company
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
